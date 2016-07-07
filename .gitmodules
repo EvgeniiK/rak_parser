@@ -1,0 +1,3 @@
+[submodule "andfrodb"]
+	path = andfrodb
+	url = git@github.com:EvgeniiK/andfrodb.git
